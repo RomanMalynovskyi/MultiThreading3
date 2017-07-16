@@ -3,6 +3,9 @@ import java.util.Scanner;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
+/**
+ * Created by Малиновский Роман on 16.07.2017.
+ */
 public class SearchFiles {
     private String fileName;
     private String fileSystem;
